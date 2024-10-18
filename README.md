@@ -1,4 +1,4 @@
-## Hello World 🌎
+## Hello World! 🌎
 ## 💬 About me
 I am a full-stack developer. I enjoy taking an abstract notion of what can be done, figuring out how to formulaically do that, and ultimately packing that code into a user-friendly application. I am eager to connect with anyone on a similar journey and anyone with opportunities in tech.
 
